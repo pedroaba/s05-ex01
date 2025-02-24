@@ -1,5 +1,11 @@
 # Reserva de Armário
 
+---
+Nome: Pedro Augusto Barbosa Aparecido
+Matrícula: 170
+Curso: Engenharia de Software
+---
+
 Uma aplicação web simples para simular a reserva de armários, desenvolvida utilizando HTML, CSS e JavaScript. O sistema permite que um usuário reserve um armário de acordo com o tipo desejado (Padrão ou Duplo) e suas necessidades de acessibilidade.
 
 ## Funcionalidades
